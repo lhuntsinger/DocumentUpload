@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-27T20:02:58Z" name="Default suite" finished-at="2020-05-27T20:03:20Z" duration-ms="21703">
+    <groups>
+    </groups>
+    <test started-at="2020-05-27T20:02:58Z" name="Default test" finished-at="2020-05-27T20:03:20Z" duration-ms="21703">
+      <class name="com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest@6973b51b]" started-at="2020-05-27T16:02:58Z" name="setUp" finished-at="2020-05-27T16:03:08Z" duration-ms="10200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySndReqBtnDisabledAppIDNotifySpecified(org.testng.ITestContext)[pri:0, instance:com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest@6973b51b]" started-at="2020-05-27T16:03:08Z" name="verifySndReqBtnDisabledAppIDNotifySpecified" finished-at="2020-05-27T16:03:15Z" duration-ms="6159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6d0b5baf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySndReqBtnDisabledAppIDNotifySpecified -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest@6973b51b]" started-at="2020-05-27T16:03:15Z" name="tearDown" finished-at="2020-05-27T16:03:20Z" duration-ms="5327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6d0b5baf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=verifySndReqBtnDisabledAppIDNotifySpecified status=SUCCESS method=SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest.verifySndReqBtnDisabledAppIDNotifySpecified(org.testng.ITestContext)[pri:0, instance:com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest@6973b51b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

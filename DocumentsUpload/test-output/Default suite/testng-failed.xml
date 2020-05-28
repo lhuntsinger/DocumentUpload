@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <parameter name="InstanceId" value="24219100"/>
+    <parameter name="Date" value="20200527040041"/>
+    <classes>
+      <class name="com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest">
+        <methods>
+          <include name="verifySndReqBtnDisabledAppIDNotifySpecified" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.wac.du.testcases.SndReqBtnDisabledAppIDNotifySpecifiedandReqDocsNotSpecifiedTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

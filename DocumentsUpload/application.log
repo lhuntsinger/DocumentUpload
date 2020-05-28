@@ -1,0 +1,30 @@
+2020-05-27 16:02:58,676  INFO [main] TestBase:40 - *********************Starting up initialization**************************
+2020-05-27 16:03:02,512  INFO [main] TestBase:48 - Chrome browser launched
+2020-05-27 16:03:04,660  INFO [main] TestBase:57 - Window Maximized
+2020-05-27 16:03:04,667  INFO [main] TestBase:59 - Deleted all cookies
+2020-05-27 16:03:04,671  INFO [main] TestBase:61 - Page load timeout is setup 30 seconds
+2020-05-27 16:03:04,674  INFO [main] TestBase:63 - Setting up implicit wait time out for 60 seconds
+2020-05-27 16:03:06,912  INFO [main] TestBase:66 - Launching the URL https://docuphaseinternalblobdev.z13.web.core.windows.net/history
+2020-05-27 16:03:06,913  INFO [main] TestBase:69 - *********************Completed initialization**************************
+2020-05-27 16:03:08,799  INFO [main] TestBase:34 - Developer Email was used: lee.huntsinger@worldacceptance.com
+2020-05-27 16:03:08,870  INFO [main] TestBase:36 - Next button was clicked
+2020-05-27 16:03:08,870  INFO [main] TestBase:41 - Logged in the user
+2020-05-27 16:03:08,880  INFO [main] TestBase:69 - ********************* Start of History Page Test ******************
+2020-05-27 16:03:14,255  INFO [main] TestBase:47 - nav-link active
+2020-05-27 16:03:14,256  INFO [main] TestBase:73 - History page is displayed
+2020-05-27 16:03:14,257  INFO [main] TestBase:82 - ********************* End of History Page Test ******************
+2020-05-27 16:03:14,257  INFO [main] TestBase:85 - *************** Start Verify Loan Request Page Displayed ***************
+2020-05-27 16:03:14,322  INFO [main] TestBase:163 - REQUEST link was clicked
+2020-05-27 16:03:14,443  INFO [main] TestBase:179 - nav-link active
+2020-05-27 16:03:14,444  INFO [main] TestBase:182 - Loan Request page is displayed
+2020-05-27 16:03:14,444  INFO [main] TestBase:96 - *************** End Verify Loan Request Page Displayed ***************
+2020-05-27 16:03:14,445  INFO [main] TestBase:99 - *************** Start of Enter Application ID ***************
+2020-05-27 16:03:14,584  INFO [main] TestBase:229 - Entered Individual Application ID data
+2020-05-27 16:03:14,585  INFO [main] TestBase:104 - *************** End of Enter Application ID ***************
+2020-05-27 16:03:14,586  INFO [main] TestBase:107 - *************** Start Verify Notify via Email option visible ***************
+2020-05-27 16:03:14,984  INFO [main] TestBase:395 - Notify via Email check box is displayed
+2020-05-27 16:03:14,985  INFO [main] TestBase:113 - *************** End Verify Notify via Email option visible ***************
+2020-05-27 16:03:14,986  INFO [main] TestBase:116 - *************** Start Verify Send Request Button Disabled ***************
+2020-05-27 16:03:15,029  INFO [main] TestBase:195 - true
+2020-05-27 16:03:15,030  INFO [main] TestBase:198 - Send Request button is disabled
+2020-05-27 16:03:15,030  INFO [main] TestBase:122 - *************** End Verify Send Request Button Disabled ***************
